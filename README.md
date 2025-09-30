@@ -61,7 +61,7 @@ Regional Analysis: Governments and tourism bodies can analyze competitiveness by
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like.
-Example: ![Dashboard Preview]()
+Example: ![Dashboard Preview](https://github.com/khanYasmeen/Cofee-Shope-Sales-Dashboard/blob/main/coffe%20shop%20ss.png)
 
 
 
