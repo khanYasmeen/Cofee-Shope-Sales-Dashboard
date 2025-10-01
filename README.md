@@ -53,11 +53,11 @@ This Chart will help us analyze which Hr of the Day is most bussiest and we can 
 
 So This Walk through will help the bussiness analyze trend, Peak Hrs, monthly Sales trend which help them make bussiness driven decision
 
-•	Business Impact & Insights
-Marketing Optimization:  Maven Roasters  can use this dashboard to identify key selling points for different demographics (e.g.,).
-Strategic Expansion: Resort developers can spot underdeveloped regions with high potential.
-Vacation Planning: Tourists can plan trips based on slope availability, elevation, and terrain difficulty.
-Regional Analysis: Governments and tourism bodies can analyze competitiveness by region.
+•	Business Impact & Insights <br>
+  - Focus marketing campaigns and bundle offers around Espresso, Chai Tea, and Hot Chocolate to maximize revenue.
+  - Improving Low Performers by Re-evaluate pricing, portion size, or promotion to boost sales.
+  - Highlight growing products (Herbal Tea, Black Tea) on the menu or in loyalty programs to encourage repeat sales.
+  - Ensure higher stock availability for top-selling beverages to avoid shortages during peak hours.
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like.
